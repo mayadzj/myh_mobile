@@ -20,7 +20,7 @@ export default {
     }
   },
   mounted(){
-    this.loadpanduan()
+    // this.loadpanduan()
   },
   methods:{
     loadpanduan(){
